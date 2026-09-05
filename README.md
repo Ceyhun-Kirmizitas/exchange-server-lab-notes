@@ -6,8 +6,8 @@ This repository contains concise technical notes from hands-on Exchange Server l
 
 ## OWA Authentication Deep Dive
 
-- [Part 1 — How OWA Authentication Really Works](owa-authentication/part-1-how-owa-authentication-really-works.md)
-- [Part 2 — Forms-Based and Basic Authentication](owa-authentication/part-2-forms-based-and-basic-authentication.md)
-- [Part 3 — Frontend vs Backend Authentication](owa-authentication/part-3-frontend-vs-backend-authentication.md)
+- [Part 1 — Exchange Server OWA Authentication Request Flow: Frontend, HttpProxy and Backend](owa-authentication/part-1-how-owa-authentication-really-works.md)
+- [Part 2 — Exchange OWA Forms-Based vs Basic Authentication: HTTP 401, Browser Prompt and IIS Changes](owa-authentication/part-2-forms-based-and-basic-authentication.md)
+- [Part 3 — Exchange OWA Frontend vs Backend Authentication: Backend 401 After Successful FBA Login](owa-authentication/part-3-frontend-vs-backend-authentication.md)
 
 More Exchange Server lab notes will be added as the lab series continues.
