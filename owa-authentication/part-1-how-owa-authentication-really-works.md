@@ -1,4 +1,4 @@
-# Exchange Server OWA Authentication Deep Dive — Part 1
+# Exchange Server OWA Authentication Request Flow: Frontend, HttpProxy and Backend
 
 ## How OWA Authentication Really Works
 
