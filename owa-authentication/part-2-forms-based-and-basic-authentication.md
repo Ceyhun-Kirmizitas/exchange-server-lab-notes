@@ -1,4 +1,4 @@
-# Exchange Server OWA Authentication Deep Dive — Part 2
+# Exchange OWA Forms-Based vs Basic Authentication: HTTP 401, Browser Prompt and IIS Changes
 
 ## Forms-Based and Basic Authentication
 
